@@ -17,4 +17,4 @@ if x:
     st.write("The cube of {} is {}".format(x, cube(x)))
 
 else:
-    st.write("Please enter a number")
+    st.write("Please enter a number  ")
